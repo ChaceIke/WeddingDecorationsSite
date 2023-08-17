@@ -10,9 +10,9 @@ import Person6 from "../images/team/christina-wocintechchat-com-_5_CBVCLBsY-unsp
 function Team() {
   const teamPpl = [
     { img: Person1, name: "Chace Ike", job: "Owner" },
-    { img: Person2, name: "Mary Oppenheimer", job: "CFO" },
+    { img: Person2, name: "Francine Oppenheimer", job: "CFO" },
     { img: Person3, name: "Eric Allen", job: "CFO" },
-    { img: Person4, name: "Courtney Francis", job: "Regional Manager" },
+    { img: Person4, name: "John Francis", job: "Regional Manager" },
     { img: Person5, name: "Allen Ike", job: "Employee" },
     { img: Person6, name: "Elizabeth James", job: "Employee" },
   ];
